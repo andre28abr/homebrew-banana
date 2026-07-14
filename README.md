@@ -6,8 +6,13 @@ Tap oficial do **[Banana](https://github.com/andre28abr/banana-releases)** — u
 
 ```bash
 brew tap andre28abr/banana
+brew trust andre28abr/banana   # obrigatório desde Homebrew 4.x
 brew install --cask banana
 ```
+
+> **Por que `brew trust`?** Desde Homebrew 4.x, taps de terceiros exigem
+> confirmação explícita. É a mudança de segurança pós-incidente do npm
+> supply-chain. Aparece uma vez só por tap.
 
 Depois abre pelo Spotlight ou:
 
