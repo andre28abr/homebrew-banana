@@ -63,6 +63,10 @@ Ou clique direito no ícone → **Abrir** → confirma uma vez. Homebrew Cask no
 
 Bugs, sugestões, features: [andre28abr/banana-releases/issues](https://github.com/andre28abr/banana-releases/issues) (código fonte ainda em repo privado; issues no repo público de releases).
 
+## Contribuições
+
+Obrigado pelo interesse! Este é um projeto pessoal, mantido por uma pessoa só, e por isso não consigo revisar nem acompanhar contribuições de fora. Pedidos de alteração (pull requests) serão fechados sem análise, sem nenhuma desconsideração por quem enviou. Se quiser adaptar o projeto às suas necessidades, fique à vontade para fazer um fork, dentro dos termos da licença.
+
 ## Licença
 
 App é **MIT** (ver `LICENSE` em cada release). Formula deste tap: mesma licença.
